@@ -1,0 +1,1 @@
+ALTER TABLE facturas MODIFY monto DOUBLE UNSIGNED;
