@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="XT5DCH9Ic1TRwNsh9KJ-">
-    <mxGraphModel dx="998" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1532" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="762rO5P5Adani4yz-TnO-22" parent="762rO5P5Adani4yz-TnO-20" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=19;strokeWidth=2;" value="cliente_id INT" vertex="1">
+        <mxCell id="762rO5P5Adani4yz-TnO-22" parent="762rO5P5Adani4yz-TnO-20" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=19;strokeWidth=2;" value="id_cliente INT" vertex="1">
           <mxGeometry height="30" width="186" x="30" as="geometry">
             <mxRectangle height="30" width="186" as="alternateBounds" />
           </mxGeometry>
