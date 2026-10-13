@@ -1,0 +1,1 @@
+ALTER TABLE articulos MODIFY COLUMN nombre VARCHAR(75);
