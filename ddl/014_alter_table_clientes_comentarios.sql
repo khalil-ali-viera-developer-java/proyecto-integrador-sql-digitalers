@@ -1,0 +1,1 @@
+ALTER TABLE clientes CHANGE comentarios observaciones VARCHAR(255);
